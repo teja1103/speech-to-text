@@ -1,0 +1,25 @@
+.speaker{
+    /* display: flex;
+    justify-content: space-between; */
+    width: 500px;
+    box-shadow: 0 0 13px #0000003d;
+    border-radius: 5px;
+}
+.hide{
+    height: 75%;
+    width: 55%;
+    box-shadow: 0 0 13px #0000003d;
+    border-radius: 5px;
+}
+.action{
+    color: #252525;
+    font-weight: 800;
+    padding: 0;
+
+    
+}
+button{
+    border: transparent;
+    padding: 0 ;
+    margin: 200px;
+}
