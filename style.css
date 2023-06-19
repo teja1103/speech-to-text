@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap');
+
 body{
   background-color: #C2DEDC;
 }
@@ -21,6 +24,7 @@ body{
     /* width: auto; */
     box-shadow: 0 0 13px #0000003d;
     border-radius: 75px;
+font-family: 'Poppins', sans-serif;
   
 }
 
@@ -28,6 +32,7 @@ body{
   /* background-color: #ECE5C7; */
   color: #2f2f2f;
   /* text-align: center; */
+font-family: 'Poppins', sans-serif;
 }
 .action{
     color: #252525;
